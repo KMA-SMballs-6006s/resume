@@ -1,59 +1,64 @@
 # Praveen Singh Kaurav
 
-🚀 AI & ML Enthusiast | Android Developer | Generative AI Explorer  
-
-Final-year Computer Science student specializing in Artificial Intelligence and Machine Learning. Passionate about building intelligent systems, scalable applications, and exploring real-world AI deployment.
+Final-year B.Tech Computer Science student specialising in Artificial Intelligence and Machine Learning. Strong foundation in Data Structures, Machine Learning, Generative AI, and backend development. Experienced in building AI-powered applications and Android systems using modern frameworks and secure API integrations.
 
 ---
 
-## 🔬 Areas of Interest
-- Machine Learning
-- Generative AI
-- Android Development
-- AI-powered Applications
-- Privacy & Security in Social Media
+## Technical Skills
 
----
-
-## 💻 Projects
-
-### 🧠 Mental Health Support Chatbot
-AI-powered chatbot built using Flask & Django with GPT integration.
-- Emotional health prediction logic
-- Secure API integration
-- Scalable backend deployment structure
-
-### 🎵 LRC Player for Android
-Native Android app built with Kotlin & Jetpack Compose.
-- Media3 (ExoPlayer) integration
-- Synchronized lyrics display
-- Tap-to-Seek functionality
-- Background playback support
-
----
-
-## 🛠 Technical Skills
 **Languages:** Java, Python, Kotlin, HTML  
-**Frameworks:** Flask, Django, Jetpack Compose  
-**Tools:** Media3 (ExoPlayer), Git  
+**Frameworks & Libraries:** Flask, Django, Jetpack Compose, Media3 (ExoPlayer)  
 **Core Concepts:** Data Structures & Algorithms, Machine Learning, Generative AI  
+**Development Areas:** Android Development, Secure API Handling, Backend Architecture  
 
 ---
 
-## 📜 Certifications
-- Generative AI Mastermind – Outskill x Moneycontrol (2024)
-- NPTEL (Elite) – Privacy and Security in Online Social Media (2024)
-- Python Essentials – VIT Bhopal
-- Computer Vision – VIT Bhopal
+## Projects
+
+### Mental Health Support Chatbot
+- Developed an AI-powered chatbot using Flask and Django with GPT model integration.  
+- Implemented secure API handling for scalable backend deployment.  
+- Designed emotional health prediction logic and a real-time debugging system.  
+- Structured application for modular and scalable ML deployment.  
+
+### LRC Player for Android
+- Developing a native Android application using Kotlin and Jetpack Compose.  
+- Integrated Media3 (ExoPlayer) for synchronised lyrics display.  
+- Implemented Tap-to-Seek functionality and background playback support.  
+- Designed a reactive UI architecture for smooth user interaction.  
 
 ---
 
-## 🌱 Currently Exploring
-- Advanced LLM integration
-- AI system architecture
-- Scalable backend design
+## Experience
+
+**Student Experiential Learning Visit — VIT Bhopal University (September 2024)**  
+- Visited BSNL, TVS Motors, NIOT, and Preprod (AI Startup).  
+- Observed practical applications of AI/ML, IoT systems, telecom infrastructure, and industrial automation.  
+- Gained exposure to supercomputing environments and enterprise AI deployment.  
 
 ---
 
-📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/praveen-kaur-2a4389250)
+## Education
+
+**Vellore Institute of Technology, Bhopal**  
+B.Tech in Computer Science and Engineering (AI & ML)  
+Expected Graduation: 2026  
+
+---
+
+## Certifications
+
+- Generative AI Mastermind — Outskill x Moneycontrol (2024)  
+- NPTEL (Elite) — Privacy and Security in Online Social Media (Jan–Apr 2024, 12 Weeks)  
+- Git & GitHub for Beginners: From Start to Star — Udemy (Oct 2025)  
+- Complete Your Linux Administration Tasks Faster With ChatGPT — Udemy (Oct 2025)  
+- Python Essentials — Vityarthi Learning Platform (2024)  
+- Computer Vision — Vityarthi Learning Platform (2024)  
+- Crowdsource November Nights — VIT Bhopal University (Nov–Dec 2022)  
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/praveen-kaur-2a4389250  
+Email: praveenkaurav79@gmail.com
