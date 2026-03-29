@@ -25,7 +25,15 @@ Final-year B.Tech Computer Science student specialising in Artificial Intelligen
 - Developing a native Android application using Kotlin and Jetpack Compose.  
 - Integrated Media3 (ExoPlayer) for synchronised lyrics display.  
 - Implemented Tap-to-Seek functionality and background playback support.  
-- Designed a reactive UI architecture for smooth user interaction.  
+- Designed a reactive UI architecture for smooth user interaction.
+
+###Spotify Data Analytics Pipeline & Dashboard**
+
+- Built an end-to-end data pipeline to clean, process, and analyze large-scale music streaming data using Python and Pandas
+- Developed an interactive dashboard using Streamlit and Plotly to visualize artist performance, genre trends, and platform reach
+- Implemented data preprocessing techniques to handle missing values and inconsistent formats in real-world datasets
+- Performed correlation analysis and generated actionable insights on streaming patterns across multiple platforms
+
 
 ---
 
@@ -61,4 +69,4 @@ Expected Graduation: 2026
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/praveen-kaur-2a4389250  
-Email: praveenkaurav79@gmail.com
+Email: praveenkaurav69@gmail.com
