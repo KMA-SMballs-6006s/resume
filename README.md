@@ -27,7 +27,7 @@ Final-year B.Tech Computer Science student specialising in Artificial Intelligen
 - Implemented Tap-to-Seek functionality and background playback support.  
 - Designed a reactive UI architecture for smooth user interaction.
 
-###Spotify Data Analytics Pipeline & Dashboard
+### Spotify Data Analytics Pipeline & Dashboard
 
 - Built an end-to-end data pipeline to clean, process, and analyze large-scale music streaming data using Python and Pandas
 - Developed an interactive dashboard using Streamlit and Plotly to visualize artist performance, genre trends, and platform reach
