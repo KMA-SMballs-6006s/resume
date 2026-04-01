@@ -1,4 +1,7 @@
 # Praveen Singh Kaurav
+ Email: praveenkaurav69@gmail.com
+ 
+ LinkedIn: https://www.linkedin.com/in/praveen-kaur-2a4389250
 
 Final-year B.Tech Computer Science student specialising in Artificial Intelligence and Machine Learning. Strong foundation in Data Structures, Machine Learning, Generative AI, and backend development. Experienced in building AI-powered applications and Android systems using modern frameworks and secure API integrations.
 
@@ -67,6 +70,3 @@ Expected Graduation: 2026
 ---
 
 ## Contact
-
-LinkedIn: https://www.linkedin.com/in/praveen-kaur-2a4389250  
-Email: praveenkaurav69@gmail.com
